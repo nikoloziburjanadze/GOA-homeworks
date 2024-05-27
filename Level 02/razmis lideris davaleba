@@ -1,0 +1,6 @@
+name = "nikolozi"
+surname = "burjanadze"
+age = "11"
+print (name + " " + surname + " " + age)
+
+
